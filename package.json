@@ -1,5 +1,5 @@
 {
-  "name": "create-mderic-boilerplates",
+  "name": "@mucodevde/create-mderic-boilerplates",
   "version": "1.0.0",
   "description": "CLI to scaffold boilerplates from mderic-boilerplates",
   "keywords": [
